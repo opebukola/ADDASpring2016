@@ -14,7 +14,7 @@
 -----------------------
 
 + Slides - [1.1. Explore HTML and CSS](https://docs.google.com/presentation/d/1VZ8-_vjXeNGnQk3fhnuoX1mDof13Z6u634LaiZgpJ0Y/edit?usp=sharing) 
-+ Watch Video - 
++ Watch Video - https://youtu.be/B6SHu15HFI0
 + Link to assignment repo is [here](https://classroom.github.com/assignment-invitations/fff7031ace6dfd101c672c5f4769ca14). 
  Make the following changes to the site:
     + Change the text that appears in the browser toolbar from “Painter John Bramblitt” to “Sightless Painter John Bramblitt”
