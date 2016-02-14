@@ -30,7 +30,7 @@
 -----------------------
 
 + Slides - [1.2: HTML Document Structure](https://docs.google.com/presentation/d/1asJMdIOdUb_RXO9XOSaIqKlKSTFXaKD2Jlf_JLGadDQ/edit?usp=sharing)
-+ Watch video - link
++ Watch video - https://youtu.be/WArgILMpKo0
   + Create a DOM tree for the page at http://addasimpletree.neocities.org/
   + Begin your personal landing page project
 + When you are finished, submit your quiz [here](https://docs.google.com/forms/d/1bE1TMfPkbvOxoDNlUbZjTU-e3nBsi4gxqB9iWlsGwak/viewform)
