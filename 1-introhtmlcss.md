@@ -30,10 +30,16 @@
 -----------------------
 
 + Slides - [1.2: HTML Document Structure](https://docs.google.com/presentation/d/1asJMdIOdUb_RXO9XOSaIqKlKSTFXaKD2Jlf_JLGadDQ/edit?usp=sharing)
-+ Watch video - https://youtu.be/WArgILMpKo0
++ (1) Watch video - https://youtu.be/WArgILMpKo0
   + Create a DOM tree for the page at http://addasimpletree.neocities.org/
   + Begin your personal landing page project
-+ When you are finished, submit your quiz [here](https://docs.google.com/forms/d/1bE1TMfPkbvOxoDNlUbZjTU-e3nBsi4gxqB9iWlsGwak/viewform)
+  + When you are finished, submit your quiz [here](https://docs.google.com/forms/d/1bE1TMfPkbvOxoDNlUbZjTU-e3nBsi4gxqB9iWlsGwak/viewform)
++ (2) Pair programming: recreate this web page
+  + You will work with a partner to recreate a basic webpage
+  + Download the full size image for the final creation [here](https://drive.google.com/file/d/0B1MYP7sU_C0va004c3V3akhuSEU/view)
+  + Fork (copy) the starter code [here](https://github.com/opebukola/recreate)
+  + Create a C9 workspace, then invite your partner with read/write (RW) access
+  + Add appropriate HTML tags to make your page look like example. You'll be adding HTML only. CSS is already there for you
 + (Optional) Watch [HTML - Hamburger Text Markup Language](http://www.dontfeartheinternet.com/02-html/)(3:36)
 
 
