@@ -49,7 +49,7 @@
   + Fork (copy) the starter code [here](https://github.com/opebukola/recreate)
   + Create a C9 workspace, then invite your partner with read/write (RW) access
   + Add appropriate HTML tags to make your page look like example. You'll be adding HTML only. CSS is already there for you
-+ (Optional) Watch [Don't Fear Starting From Scratch Part 1: HTML](http://www.dontfeartheinternet.com/04-from-scratch/)
++ (Optional) Watch [Don't Fear Starting From Scratch Part 1: HTML](http://www.dontfeartheinternet.com/04-from-scratch/)(7:07) - *I recommend coding along with this video*
 
 <a id="resources">Extra Resources</a>
 -----------------------
