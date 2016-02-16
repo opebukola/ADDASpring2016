@@ -6,6 +6,8 @@
 
 [1.2: HTML Document Structure](#htmlstructure)
 
+[1.3: Elements, Tags, and Attributes](#tags)
+
 [Extra Resources](#resources)
 
 
@@ -30,21 +32,28 @@
 -----------------------
 
 + Slides - [1.2: HTML Document Structure](https://docs.google.com/presentation/d/1asJMdIOdUb_RXO9XOSaIqKlKSTFXaKD2Jlf_JLGadDQ/edit?usp=sharing)
-+ (1) Watch video - https://youtu.be/WArgILMpKo0
++ Watch video - https://youtu.be/WArgILMpKo0
   + Create a DOM tree for the page at http://addasimpletree.neocities.org/
   + Begin your personal landing page project
   + When you are finished, submit your quiz [here](https://docs.google.com/forms/d/1bE1TMfPkbvOxoDNlUbZjTU-e3nBsi4gxqB9iWlsGwak/viewform)
-+ (2) Pair programming: recreate this web page
+
++ (Optional) Watch [HTML - Hamburger Text Markup Language](http://www.dontfeartheinternet.com/02-html/)(3:36)
+
+<a id="tags">1.3: Elements, Tags, and Attributes</a>
+-----------------------
+
++ Slides - [1.3: Elements, Tags, and Attributes](https://docs.google.com/presentation/d/1QmxASeeHCEbBrv23lauk-EJQlwRQh5jGXvYr-UzaPZ4/edit?usp=sharing)
++ Pair program: recreate this web page
   + You will work with a partner to recreate a basic webpage
   + Download the full size image for the final creation [here](https://drive.google.com/file/d/0B1MYP7sU_C0va004c3V3akhuSEU/view)
   + Fork (copy) the starter code [here](https://github.com/opebukola/recreate)
   + Create a C9 workspace, then invite your partner with read/write (RW) access
   + Add appropriate HTML tags to make your page look like example. You'll be adding HTML only. CSS is already there for you
-+ (Optional) Watch [HTML - Hamburger Text Markup Language](http://www.dontfeartheinternet.com/02-html/)(3:36)
-
++ (Optional) Watch [Don't Fear Starting From Scratch Part 1: HTML](http://www.dontfeartheinternet.com/04-from-scratch/)
 
 <a id="resources">Extra Resources</a>
 -----------------------
 
 + Watch [HTML - Hamburger Text Markup Language](http://www.dontfeartheinternet.com/02-html/)
++ Watch [Don't Fear Starting From Scratch Part 1: HTML](http://www.dontfeartheinternet.com/04-from-scratch/)
 + Read [Building your first web page](http://learn.shayhowe.com/html-css/building-your-first-web-page/)
