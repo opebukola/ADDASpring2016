@@ -43,11 +43,11 @@
 -----------------------
 
 + Slides - [1.3: Elements, Tags, and Attributes](https://docs.google.com/presentation/d/1QmxASeeHCEbBrv23lauk-EJQlwRQh5jGXvYr-UzaPZ4/edit?usp=sharing)
-+ Pair program: recreate this web page
-  + You will work with a partner to recreate a basic webpage
++ Exercise: recreate this web page
+  + You will work to recreate a basic webpage
   + Download the full size image for the final creation [here](https://drive.google.com/file/d/0B1MYP7sU_C0va004c3V3akhuSEU/view)
   + Fork (copy) the starter code [here](https://github.com/opebukola/recreate)
-  + Create a C9 workspace, then invite your partner with read/write (RW) access
+  + Create a C9 workspace, and use your fork as a starting point
   + Add appropriate HTML tags to make your page look like example. You'll be adding HTML only. CSS is already there for you
 + (Optional) Watch [Don't Fear Starting From Scratch Part 1: HTML](http://www.dontfeartheinternet.com/04-from-scratch/)(7:07) - *I recommend coding along with this video*
 
