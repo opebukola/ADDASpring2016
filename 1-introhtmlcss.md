@@ -32,7 +32,9 @@
 -----------------------
 
 + Slides - [1.2: HTML Document Structure](https://docs.google.com/presentation/d/1asJMdIOdUb_RXO9XOSaIqKlKSTFXaKD2Jlf_JLGadDQ/edit?usp=sharing)
-+ Watch video - https://youtu.be/WArgILMpKo0
+
++ Exercise
+  + Watch video - https://youtu.be/WArgILMpKo0
   + Create a DOM tree for the page at http://addasimpletree.neocities.org/
   + Begin your personal landing page project
   + When you are finished, submit your quiz [here](https://docs.google.com/forms/d/1bE1TMfPkbvOxoDNlUbZjTU-e3nBsi4gxqB9iWlsGwak/viewform)
@@ -43,6 +45,7 @@
 -----------------------
 
 + Slides - [1.3: Elements, Tags, and Attributes](https://docs.google.com/presentation/d/1QmxASeeHCEbBrv23lauk-EJQlwRQh5jGXvYr-UzaPZ4/edit?usp=sharing)
+
 + Exercise: recreate this web page
   + You will work to recreate a basic webpage
   + Download the full size image for the final creation [here](https://drive.google.com/file/d/0B1MYP7sU_C0va004c3V3akhuSEU/view)
@@ -51,6 +54,7 @@
     + Copy the git link of your fork
     + In C9, create a new workspace, give it a name, then add the git link under "Clone from git or mercurial URL"
   + Add appropriate HTML tags to make your page look like example. You'll be adding HTML only. CSS is already there for you
+
 + (Optional) Watch [Don't Fear Starting From Scratch Part 1: HTML](http://www.dontfeartheinternet.com/04-from-scratch/)(7:07) - *I recommend coding along with this video*
 
 <a id="resources">Extra Resources</a>
