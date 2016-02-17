@@ -48,8 +48,8 @@
   + Download the full size image for the final creation [here](https://drive.google.com/file/d/0B1MYP7sU_C0va004c3V3akhuSEU/view)
   + Fork (copy) the starter code [here](https://github.com/opebukola/recreate). Open the repo, then click "Fork" at the top right corner
   + Create a C9 workspace, and use your fork as a starting point
-  + + Copy the git link of your fork
-  + + In C9, create a new workspace, give it a name, then add the git link under "Clone from git or mercurial URL"
+    + Copy the git link of your fork
+    + In C9, create a new workspace, give it a name, then add the git link under "Clone from git or mercurial URL"
   + Add appropriate HTML tags to make your page look like example. You'll be adding HTML only. CSS is already there for you
 + (Optional) Watch [Don't Fear Starting From Scratch Part 1: HTML](http://www.dontfeartheinternet.com/04-from-scratch/)(7:07) - *I recommend coding along with this video*
 
