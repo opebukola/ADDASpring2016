@@ -60,7 +60,7 @@
 
 + (Optional) Watch [Don't Fear Starting From Scratch Part 1: HTML](http://www.dontfeartheinternet.com/04-from-scratch/)(7:07) - *I recommend coding along with this video*
 
-<a id="htmlstructure">1.4: CSS Selectors</a>
+<a id="selectors">1.4: CSS Selectors</a>
 -----------------------
 
 + Slides - [1.4: CSS Selectors](https://docs.google.com/presentation/d/1w7uhP2Uvq8xwFUck7RKVBYo_jBUTiOfAoXkQix6pMCM/edit?usp=sharing)
