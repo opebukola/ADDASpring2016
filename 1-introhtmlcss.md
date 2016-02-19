@@ -54,6 +54,7 @@
     + Copy the git link of your fork
     + In C9, create a new workspace, give it a name, then add the git link under "Clone from git or mercurial URL"
   + Add appropriate HTML tags to make your page look like example. You'll be adding HTML only. CSS is already there for you
+  + When you are finished, submit your quiz [here](https://docs.google.com/forms/d/1LR-xGlCZUQuSGOqWZ4aAxTq-YIEAEBGbMutWdVx0wXA/viewform)
 
 + (Optional) Watch [Don't Fear Starting From Scratch Part 1: HTML](http://www.dontfeartheinternet.com/04-from-scratch/)(7:07) - *I recommend coding along with this video*
 
