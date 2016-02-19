@@ -73,7 +73,7 @@
     + Make every paragraph italicized, with 16px bold text
     + Underline every visited link in green
     + Make every element with class “standout” 25px and orange
-  + Submit your answers on this quiz [here](add link)
+  + Submit your answers on this quiz [here](https://docs.google.com/forms/d/1LGeWkQxF3Pl7JQUhLuG-bL9QwkNPOdg3XUgCvKb8-ZY/viewform)
 
 + (Optional) Watch [Don't Fear Starting from Scratch - CSS](http://www.dontfeartheinternet.com/05-from-scratch/)(11:01)
 
