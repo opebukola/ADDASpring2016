@@ -8,6 +8,8 @@
 
 [1.3: Elements, Tags, and Attributes](#tags)
 
+[1.4: CSS Selectors](#selectors)
+
 [Extra Resources](#resources)
 
 
@@ -57,6 +59,23 @@
   + When you are finished, submit your quiz [here](https://docs.google.com/forms/d/1LR-xGlCZUQuSGOqWZ4aAxTq-YIEAEBGbMutWdVx0wXA/viewform)
 
 + (Optional) Watch [Don't Fear Starting From Scratch Part 1: HTML](http://www.dontfeartheinternet.com/04-from-scratch/)(7:07) - *I recommend coding along with this video*
+
+<a id="htmlstructure">1.4: CSS Selectors</a>
+-----------------------
+
++ Slides - [1.4: CSS Selectors](https://docs.google.com/presentation/d/1w7uhP2Uvq8xwFUck7RKVBYo_jBUTiOfAoXkQix6pMCM/edit?usp=sharing)
+
++ Exercise
+  + Watch video - https://youtu.be/ieeGZSQ91qg (6:25)
+  + You'll practice writing some CSS rules. Use Google to research these!
+    + Underline every link in purple
+    + Make every paragraph Arial or, if not available, a san-serif font
+    + Make every paragraph italicized, with 16px bold text
+    + Underline every visited link in green
+    + Make every element with class “standout” 25px and orange
+  + Submit your answers on this quiz [here](add link)
+
++ (Optional) Watch [Don't Fear Starting from Scratch - CSS](http://www.dontfeartheinternet.com/05-from-scratch/)(11:01)
 
 <a id="resources">Extra Resources</a>
 -----------------------
