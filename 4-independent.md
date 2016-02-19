@@ -13,6 +13,6 @@ of no more than 10 minutes, plus 5 mintues for q&a. I've included some starter a
 | **Cookies**| Mar 1 | Kiyun K, Maria L, Erika I| |
 | **Caching**  |Mar 1 | Cathy X, Angela Z, Ada T | |
 | **Cloud Computing** | Mar 22 | Hana F, Hannah Y |  |
-| **Encryption**| Mar 22 |Chelsea Ha | [BBC News](http://www.bbc.com/news/technology-35601035)|
+| **Encryption**| Mar 22 |Chelsea H, Gabriela C, | [BBC News](http://www.bbc.com/news/technology-35601035)|
 | **APIs** | Mar 29 |Anni W, Michelle X |  |
-| **Net neutrality** | Mar 29 | Rebecca C, Augusta C |  |
+| **Net neutrality** | Mar 29 | Rebecca C, Augusta C, Aysha |  |
