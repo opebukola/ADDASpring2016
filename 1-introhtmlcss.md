@@ -75,6 +75,18 @@
     + Make every element with class “standout” 25px and orange
   + Submit your answers on this quiz [here](https://docs.google.com/forms/d/1LGeWkQxF3Pl7JQUhLuG-bL9QwkNPOdg3XUgCvKb8-ZY/viewform)
 
++ Exercise
+  + You and a partner will be working to recreate this page http://bit.ly/adda-keepcalm
+  + One of you should create a new c9 workspace by cloning starter code at https://github.com/opebukola/keepcalm
+  + Invite your partner to the workspace
+    + Click the Share link at the top right hand of your workspace.
+    + Make sure you give your parnter Read/Write (RW) access 
+    + Together work on recreating the page. 
+  + When you finish recreating, take a screenshot of your page and post in Slack. Then make other changes:
+    + Change the phrase. What keeps you calm? For me, it's Keep calm and do yoga
+    + Change the image
+    + Add CSS hover effect so that the image rotates on hover
+
 + (Optional) Watch [Don't Fear Starting from Scratch - CSS](http://www.dontfeartheinternet.com/05-from-scratch/)(11:01)
 
 <a id="resources">Extra Resources</a>
