@@ -10,6 +10,10 @@
 
 [1.4: CSS Selectors](#selectors)
 
+[1.5: Connecting HTML and CSS](#connecting)
+
+[Project 1: Personal Landing Page](#project1)
+
 [Extra Resources](#resources)
 
 
@@ -65,7 +69,7 @@
 
 + Slides - [1.4: CSS Selectors](https://docs.google.com/presentation/d/1w7uhP2Uvq8xwFUck7RKVBYo_jBUTiOfAoXkQix6pMCM/edit?usp=sharing)
 
-+ Exercise
++ Exercise 1.4a
   + Watch video - https://youtu.be/ieeGZSQ91qg (6:25)
   + You'll practice writing some CSS rules. Use Google to research these!
     + Underline every link in purple
@@ -75,7 +79,7 @@
     + Make every element with class “standout” 25px and orange
   + Submit your answers on this quiz [here](https://docs.google.com/forms/d/1LGeWkQxF3Pl7JQUhLuG-bL9QwkNPOdg3XUgCvKb8-ZY/viewform)
 
-+ Exercise
++ Exercise 1.4b
   + You and a partner will be working to recreate this page http://bit.ly/adda-keepcalm
   + One of you should create a new c9 workspace by cloning starter code at https://github.com/opebukola/keepcalm
   + Invite your partner to the workspace
@@ -89,6 +93,34 @@
 
 + (Optional) Watch [Don't Fear Starting from Scratch - CSS](http://www.dontfeartheinternet.com/05-from-scratch/)(11:01)
 
+
+<a id="connecting">1.5: Connecting HTML and CSS</a>
+-----------------------
+
++ Slides - [1.5: Connecting HTML and CSS](https://docs.google.com/presentation/d/1N2fSvD5-MjL9eoae8wuZlJTtenba0HW2K2ESootkbFI/edit?usp=sharing)
++ Exercise - Understanding the Cascade, divs, spans
+ + Review slides 7-12 in the slides. Write out all the code and see the results
+
+
+
+<a id="project1">Project 1: Personal Landing Page</a>
+-----------------------
+
++ In this project, you will build a personal landing page. See [example](https://drive.google.com/file/d/0B1MYP7sU_C0vd1ZXRHBvb1FWVE0/view?usp=sharing)
++ Your landing page must include information about you, and at least two images
++ Your project should include:
+  + HTML elements
+    + A paragraph with some text about you 
+    + An image
+    + An input element for submission (it won’t actually submit anything!)
+  + CSS rules
+    + Background image 
+    + Header image
+      + If you like rounded image effect, use border-radius to achieve
+      + Use height/width to resize the image 
++ Feel free to experiment and personalize page further!
+
+  
 <a id="resources">Extra Resources</a>
 -----------------------
 
