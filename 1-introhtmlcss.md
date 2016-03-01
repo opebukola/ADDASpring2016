@@ -120,6 +120,8 @@
       + Use height/width to resize the image 
 + Feel free to experiment and personalize page further!
 
+**Project is due by end of day on Mon March 3**
+
   
 <a id="resources">Extra Resources</a>
 -----------------------
