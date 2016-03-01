@@ -14,6 +14,8 @@
 
 [Project 1: Personal Landing Page](#project1)
 
+[Project 2: Digital Resume](#project1)
+
 [Extra Resources](#resources)
 
 
@@ -119,8 +121,21 @@
       + If you like rounded image effect, use border-radius to achieve
       + Use height/width to resize the image 
 + Feel free to experiment and personalize page further!
++ When you are finished, submit your project [here](https://docs.google.com/forms/d/1A4rRTC1-k-eG9gZ-SC0jYiMyoUtFVqHsv_QIWSfv8pE/viewform)
 
-**Project is due by end of day on Mon March 3**
+
+**Project is due by end of day on Mon March 7**
+
+<a id="project2">Project 2: Digital Resume</a>
+-----------------------
+
++ In this project, you will be digitizing your resume
++ Use HTML elements (lists, headings, paragraphs, etc.) to give your resume good visual styling
++ Your resume should include at least one image
++ Be creative! Experiment with interesting visual styles, and layout
++ When you are finished, submit your project [here](https://docs.google.com/forms/d/1A4rRTC1-k-eG9gZ-SC0jYiMyoUtFVqHsv_QIWSfv8pE/viewform)
+
+**Project is due by end of day on Mon March 21**
 
   
 <a id="resources">Extra Resources</a>
