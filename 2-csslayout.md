@@ -32,7 +32,7 @@
     + Bonus: make navigation elements go across the page
 
 
-<a id="boxmodel">2.1. Semantic HTML</a>
+<a id="boxmodel">2.2. The Box Model</a>
 -----------------------
 
 + Slides - [2.2. The Box Model](https://docs.google.com/presentation/d/1V41nZ7ZJWOKest4lIMBsIseUwTtqCb4Fe-5MeEIu5IY/edit?usp=sharing)
