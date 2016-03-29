@@ -14,5 +14,5 @@ of no more than 10 minutes, plus 5 mintues for q&a. I've included some starter a
 | **Caching**  |Mar 1 | Cathy X, Angela Z, Ada T | [Skillcrush - Cache](http://skillcrush.com/2013/01/03/cache/)|
 | **Cloud Computing** | Mar 22 | Hana F, Hannah Y |  |
 | **Encryption**| Mar 22 |Chelsea H, Gabriela C, | [Apple vs the FBI - a plain English guide](http://www.bbc.com/news/technology-35601035)|
-| **APIs** | Mar 29 |Anni W, Michelle X, Elizabeth |  |
-| **Net neutrality** | Mar 29 | Rebecca C, Augusta C, Aysha |  |
+| **APIs** | Mar 29 |Anni W, Michelle X, Elizabeth |[Skillcrush - APIs](http://skillcrush.com/2012/07/04/api-2/) <br> |
+| **Net neutrality** | Mar 29 | Rebecca C, Augusta C, Aysha |[Vox - Net Neutrality](https://www.youtube.com/watch?v=sBKPacCuXsw)    |
