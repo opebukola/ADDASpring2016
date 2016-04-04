@@ -16,6 +16,8 @@
 
 [Project 2 (Optional): Image gallery](#project2)
 
+[Final Project](#finalproject)
+
 [Extra Resources](#resources)
 
 
@@ -94,3 +96,11 @@
 + Then, find photos you want
 + Then, create your workspace/directory, and use a grid to layout your images
 + Your page should be responsive, i.e., it should respond based on image screen size
+
+
+<a id="finalproject">Final Project</a>
+-----------------------
+
++ For this project, you'll be building a website of your choice
++ Instruction for the project are [here](https://docs.google.com/document/d/1op_jpYJFxNR6EGnTOj3s9WRds9n9lJ-_LZPeA1wrLXE/edit?usp=sharing)
++ Final projects are due by Thurs 4/14. If you want to present at graduation, submit your project by Mon 4/11 
