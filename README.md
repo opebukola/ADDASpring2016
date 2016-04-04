@@ -9,9 +9,8 @@ Syllabus and class meeting schedule is [here.](https://docs.google.com/spreadshe
 | ------------- |-------------|----------|
 | **0**: [Get Ready to Code!](https://github.com/opebukola/ADDASpring2016/blob/master/0-intro.md)  | 0.1. Why Programming <br>0.2. How do web apps work? | N/A |
 | **1**: [Introduction to HTML/CSS](https://github.com/opebukola/ADDASpring2016/blob/master/1-introhtmlcss.md)  | 1.1. Explore HTML/CSS <br>1.2. Document Object Model <br> 1.3. HTML Document Structure <br> 1.4. Tags, elements, attributes <br> 1.5. CSS Selectors <br> 1.6. Semantic HTML | (1)Personal landing page <br> (2)Digital resume |
-| **2**: [CSS Positioning](https://github.com/opebukola/ADDASpring2016/blob/master/2-csslayout.md)| 2.1. Semantic HTML <br>2.2. The Box Model <br> 2.3. Responsive Design <br> 2.4. Grid Based Design <br> 2.5. Media queries <br> 2.6. CSS Frameworks| (3)Rebuild Instagram <br> (3b) Responsive gallery| 
-| **3**: [Special Topics](https://github.com/opebukola/ADDASpring2016/blob/master/3-specialtopics.md)  | Javascript and jQuery <br> Wordpress and CMS | (4)Final Project |
-| **4**: [Independent Projects](https://github.com/opebukola/ADDASpring2016/blob/master/4-independent.md)  | Research topics | Presentations |
+| **2**: [CSS Positioning](https://github.com/opebukola/ADDASpring2016/blob/master/2-csslayout.md)| 2.1. Semantic HTML <br>2.2. The Box Model <br> 2.3. Responsive Design <br> 2.4. Grid Based Design <br> 2.5. Media queries <br> 2.6. CSS Frameworks| (3)Rebuild Instagram <br> (3b) Responsive gallery <br> Final Project| 
+| **3**: [Independent Projects](https://github.com/opebukola/ADDASpring2016/blob/master/4-independent.md)  | Research topics | Presentations |
 
 
 
