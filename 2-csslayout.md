@@ -12,6 +12,10 @@
 
 [2.4. Grid Based Design](#grid)
 
+[2.5. Media queries](#queries)
+
+[2.6. CSS Frameworks](#frameworks)
+
 [Project 1: Rebuild Instagram](#project1)
 
 [Project 2 (Optional): Image gallery](#project2)
@@ -76,7 +80,16 @@
   + Delete the content within the html <body> tags
   + Add this image to the html file 15 times: http://placekitten.com.s3.amazonaws.com/homepage-samples/408/287.jpg
   + Rearrange layout such that there are two cats in first row, then 3, then 4, then 6
- 
+
+<a id="queries">2.5. Media queries</a>
+-----------------------
+
++ Slides - [2.5. Media queries](https://drive.google.com/open?id=1y6O2gIYHNmvMr1pQt5YG7otPXQGcq0oxMzaBAva5-u8)
+
+<a id="frameworks">2.6. CSS Frameworks</a>
+-----------------------
+
++ Slides - [2.6. CSS Frameworks](https://docs.google.com/presentation/d/1jAa0sjR-5yvMTiilO7Svkm-8t_qVynw-pZt4AIFvNOE/edit?usp=sharing)
   
 <a id="project1">Project 1: Rebuild Instagram</a>
 -----------------------
@@ -87,6 +100,8 @@
 + You should use a grid for layout
 + You should use valid HTML/CSS for presentation and 
 + Project is due by the end of class on Tues April 5th
++ When you are finished, submit your project [here](https://docs.google.com/forms/d/1A4rRTC1-k-eG9gZ-SC0jYiMyoUtFVqHsv_QIWSfv8pE/viewform)
+
 
 <a id="project2">Project 2 (Optional): Image gallery</a>
 -----------------------
