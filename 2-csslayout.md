@@ -103,4 +103,4 @@
 
 + For this project, you'll be building a website of your choice
 + Instruction for the project are [here](https://docs.google.com/document/d/1op_jpYJFxNR6EGnTOj3s9WRds9n9lJ-_LZPeA1wrLXE/edit?usp=sharing)
-+ Final projects are due by Thurs 4/14. If you want to present at graduation, submit your project by Mon 4/11 
++ Final projects are due by Thurs 4/14. If you want to present at graduation, submit your project by midnight on Tues 4/12 
